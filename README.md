@@ -4,6 +4,13 @@
 
 The **Hotel Booking Management System (HBMS)** is designed to automate the manual booking and management processes of a hotel using computerized equipment and software. This system enables a seamless, error-free, and secure way to handle hotel reservations, room allocations, additional services, and guest feedback. It enhances the overall performance and improves service quality, leading to better utilization of resources. 
 
+## Entity-Relationship Diagram (ERD)
+
+The following diagram represents the ERD of the Hotel Booking Management System (HBMS):
+
+![Hotel Booking ERD](https://github.com/Epsita-R/Hotel-Booking-Management-System/blob/main/ERD.jpg)
+
+
 ## Features
 
 - Admin and User Management
